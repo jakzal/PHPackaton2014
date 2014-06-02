@@ -7,10 +7,10 @@ Koncepcja konkursu PHPackaton 2014, organizowanego w ramach inicjatywy ![PHPers]
 
 Organizatorami konkursu są przedstawiciele PHPersPL, reprezentowani przez
 
+* Kacper Gunia
 * Leszek Krupiński
 * Karol Sójko
 * Kuba Zalas
-* Ktoś ze Śląska?
 * Ktoś z Wrocławia?
 
 W/w stanowią **Zespół ekspercki**, o którym kawałek niżej.
