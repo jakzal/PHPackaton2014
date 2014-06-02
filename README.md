@@ -7,9 +7,9 @@ Koncepcja konkursu PHPackaton 2014, organizowanego w ramach inicjatywy ![PHPers]
 
 Organizatorami konkursu są przedstawiciele PHPersPL, reprezentowani przez
 
+* Leszek Krupiński
 * Karol Sójko
 * Kuba Zalas
-* Leszek Krupiński
 * Ktoś ze Śląska?
 * Ktoś z Wrocławia?
 
@@ -36,7 +36,15 @@ Michał Łukaszewski (pecado) pełni rolę Communication Officer'a:
 * projekt powinien być udostępniony jako Free Software, ew. na licencji GPL lub WTFPL.
 * repozytoria projektu powinny być publiczne (preferujemy GitHub lub Bitbucket)
 
-Projekty powinny być prowadzone w metodologii Scrum. 
+Projekty powinny być prowadzone w metodologii Scrum. Zarówno GitHub jak i Bitbucket dostarczają darmowego Issue Trackera i przestrzeń na Wiki projektu. Reszta to kwestia organizacji :>
+
+#Obowiązkowe jest stosowanie się do zasad#
+
+* CleanCode
+* SOLID
+* [PSR-0](http://www.php-fig.org/psr/psr-0/), [PSR-1](http://www.php-fig.org/psr/psr-1/), [PSR-2](http://www.php-fig.org/psr/psr-2/), [PSR-3](http://www.php-fig.org/psr/psr-2/), [PSR-4](http://www.php-fig.org/psr/psr-2/)
+
+**Oceniana będzie tylko aplikacja, nie wybrany framework: sugerujemy próbę podejścia Clean Architecture :)**
 
 #Zespoły#
 
@@ -53,12 +61,30 @@ Zakładamy, że udział wezmą następujące zespoły:
     * Śląsk
 * 2 sloty pozostaną do dyspozycji innych ośrodków, w których zawiąże się zespół i przedstawi projekt.
 
+Zespół powinien mieć stałą strukturę w trakcie trwania projektu. Niemniej nie ma przeciwskazań, aby zespół korzystał z konsultacji, tak w zakresie technologii, konfiguracji narzędzi, prowadzenia projektu. Prosimy tylko o odnotowanie takiego wsparcia, wraz z czasem jego trwania, w dokumentacji na Wiki projektu.
 
 Jeśli z w/w _regionów_ będzie chciał wystartować więcej niż jeden zespół to....???
 
 Jeśli ktoś z spoza w/w regionów będzie chciał dołączyć do zespołu z regionu to....???
 
+#Terminy#
 
+##Zgłaszanie zespołów i projektów##
+
+* Zespół wraz z projektem przedstawia się do 30.06.2014
+ * W zgłoszeniu zawarty jest
+  * skład zespołu i jego nazwa kodowa :)
+  * nazwa projektu i jego opis w 200 znakach (spacje się liczą)
+  * link do repo
+  * opcjonalnie link do CI
+* do 05.07.2014 przedstawiona jest lista zatwierdzonych projektów (chyba, żeby bierzemy wszystkie jak leci)
+
+##Czas trwania projektu##
+
+* projekty można prowadzić do 31.08.2014 włącznie
+* każdy push po tej dacie będzie traktowany jako złamanie zasad i oznacza dyskwalifikację
+* Ankieta dla społeczności i zespołu eksperckiego zostaną uruchomione 1.09.2014
+* Podsumowanie wyników i oficjalne ogłoszenie zwycięzców będzie miało miejsce na PHPConPL, 27.09.2014, Szczyrk _(nie żebym kogoś pytał, to taki pomysł :D )_
 
 #Ocenianie#
 
@@ -69,10 +95,10 @@ Jeśli ktoś z spoza w/w regionów będzie chciał dołączyć do zespołu z reg
 ##Ocena społeczności##
 
 Ponieważ społeczność jest nie do opanowania więc ocenia jak chce, choć fajnie by było gdyby oceniała mądrze.
-  
+
 ##Zespół ekspercki##
 
-Zespół ekspercki wystawia 4 oceny, każda daje maksymalnie 25% oceny końcowej zespołu
+Zespół ekspercki wystawia 5 ocen, każda daje maksymalnie 20% oceny końcowej zespołu
 * jakość kodu: w ruch pójdzie analiza statyczna ze wszystkim co mamy do dyspozycji
   * każdy projekt musi mieć testy. 
   * nie ma znaczenia czy BDD czy TDD
@@ -84,13 +110,18 @@ Zespół ekspercki wystawia 4 oceny, każda daje maksymalnie 25% oceny końcowej
   * reszta ma obcinane punkty
 * jakość dokumentacji
 * prowadzenie projektu - realizacja sprintów.
+* wykorzystanie narzędzi CI - preferujemy otwarte rozwiązania, ale jak ktoś się uprze na Jenkinsa to do niego też mamy dostęp ;)
+
+Oczywiście mamy świadomość, że jest rok 2014 i sporo się dzieje na warstwie Front Endu. Zachęcamy do wykorzystania tych możliwości. Prosimy jednak pamiętać, że główna wartość aplikacji powinna leżeć po stronie Back Endu. 
+
+Niemniej Zespół ekspercki ma prawo do powołania "konsultantów": będą to osoby powszechnie znane i uznawane za biegłe np. w JS, CSS, Scrum, itp. Pomogą one ocenić jakość poszczególnych fragmentów aplikacji lub sposobu prowadzenia projektu. Może to wpłynąć na ocenę jednego z w/w obszarów.
+
+##Jawność##
+
+* każda ocena jest jawna i podpisana
+* służyć temu będzie konieczność zalogowania się przez FB/G+/Tw/GitHub/Bitbucket aby oceny dokonać.
+* nie będziemy się szczególnie napinać na blokady, mające na celu zapewnienie 1głos-1osoba, bo i tak znajdziecie na to sposób
+* wierzymy, że nie będzie siary i podpisanie się pod swoją oceną oznacza poważnego człowieka, który wie na czym polega zabawa społecznościowa.
 
 
-##Obowiązkowe jest stosowanie się do zasad##
-
-* CleanCode
-* SOLID
-* [PSR-0](http://www.php-fig.org/psr/psr-0/), [PSR-1](http://www.php-fig.org/psr/psr-1/), [PSR-2](http://www.php-fig.org/psr/psr-2/), [PSR-3](http://www.php-fig.org/psr/psr-2/), [PSR-4](http://www.php-fig.org/psr/psr-2/)
-
-**Oceniana będzie tylko aplikacja, nie wybrany framework: sugerujemy próbę podejścia Clean Architecture :)**
 
