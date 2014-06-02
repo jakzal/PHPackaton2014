@@ -16,9 +16,10 @@ Organizatorami konkursu są przedstawiciele PHPersPL, reprezentowani przez
 W/w stanowią **Zespół ekspercki**, o którym kawałek niżej.
 
 Michał Łukaszewski (pecado) pełni rolę Communication Officer'a:
-* odpowiada na pytania
-* pilnuje wysyłania powiadomień 
-* stara się nadążyć za chaosem w skrzynce pocztowej.
+* odpowiada na pytania,
+* pilnuje wysyłania powiadomień,
+* stara się nadążyć za chaosem w skrzynce pocztowej,
+* ogarnia bieżącą dokumentację konkursu.
 
 #Cel#
 
@@ -33,8 +34,10 @@ Michał Łukaszewski (pecado) pełni rolę Communication Officer'a:
   * PHP 5.4 lub 5.5
   * lub Hack (HHVM)
   * C - jeśli internal
-* projekt powinien być udostępniony jako Free Software, ew. na licencji GPL lub WTFPL.
+* projekt powinien być udostępniony jako Free Software, na licencji GPL lub WTFPL.
 * repozytoria projektu powinny być publiczne (preferujemy GitHub lub Bitbucket)
+* projekt powinien zawierać dokumentację na Wiki (tym samym ew. readme.md mogą na to wiki wskazywać, nie ma co powielać)
+* ponieważ projekty zostaną w sieci sugerujemy dokumentację angielską, ale najważniejsze, żeby była aktualna, wyczerpująca i precyzyjna.
 
 Projekty powinny być prowadzone w metodologii Scrum. Zarówno GitHub jak i Bitbucket dostarczają darmowego Issue Trackera i przestrzeń na Wiki projektu. Reszta to kwestia organizacji :>
 
@@ -44,7 +47,7 @@ Projekty powinny być prowadzone w metodologii Scrum. Zarówno GitHub jak i Bitb
 * SOLID
 * [PSR-0](http://www.php-fig.org/psr/psr-0/), [PSR-1](http://www.php-fig.org/psr/psr-1/), [PSR-2](http://www.php-fig.org/psr/psr-2/), [PSR-3](http://www.php-fig.org/psr/psr-2/), [PSR-4](http://www.php-fig.org/psr/psr-2/)
 
-**Oceniana będzie tylko aplikacja, nie wybrany framework: sugerujemy próbę podejścia Clean Architecture :)**
+**Zespół eskpercki postara się, aby oceniana będzie tylko aplikacja, nie wybrany framework: sugerujemy próbę podejścia do Clean Architecture :)**
 
 #Zespoły#
 
@@ -63,6 +66,8 @@ Zakładamy, że udział wezmą następujące zespoły:
 
 Zespół powinien mieć stałą strukturę w trakcie trwania projektu. Niemniej nie ma przeciwskazań, aby zespół korzystał z konsultacji, tak w zakresie technologii, konfiguracji narzędzi, prowadzenia projektu. Prosimy tylko o odnotowanie takiego wsparcia, wraz z czasem jego trwania, w dokumentacji na Wiki projektu.
 
+Nie ma problemu, aby konsultacji udzielił członek Zespołu eksperckiego, o ile będzie wprost wymieniony w dokumentacji Sprintu/projektu. Wiedza ma płynąć, a nie być narzędziem terroru :)
+
 Jeśli z w/w _regionów_ będzie chciał wystartować więcej niż jeden zespół to....???
 
 Jeśli ktoś z spoza w/w regionów będzie chciał dołączyć do zespołu z regionu to....???
@@ -72,11 +77,11 @@ Jeśli ktoś z spoza w/w regionów będzie chciał dołączyć do zespołu z reg
 ##Zgłaszanie zespołów i projektów##
 
 * Zespół wraz z projektem przedstawia się do 30.06.2014
- * W zgłoszeniu zawarty jest
-  * skład zespołu i jego nazwa kodowa :)
-  * nazwa projektu i jego opis w 200 znakach (spacje się liczą)
-  * link do repo
-  * opcjonalnie link do CI
+* W zgłoszeniu zawarty jest
+ * skład zespołu i jego nazwa kodowa :)
+ * nazwa projektu i jego opis w 200 znakach (spacje się liczą)
+ * link do repo
+ * opcjonalnie link do CI
 * do 05.07.2014 przedstawiona jest lista zatwierdzonych projektów (chyba, żeby bierzemy wszystkie jak leci)
 
 ##Czas trwania projektu##
@@ -105,12 +110,12 @@ Zespół ekspercki wystawia 5 ocen, każda daje maksymalnie 20% oceny końcowej 
   * nie ma wymagania 100% pokrycia kodu
   * jest wymaganie mądrego pokrycia kodu
 * łatwość instalacji: 100% dostaje projekt, który działa po
-  * wykonaniu composer install
-  * wpisaniu lokalnych danych (db, ścieżki) do configa
-  * reszta ma obcinane punkty
+  * osadzeniu na maszynie (zip i/lub clone i/lub composer - wedle uznania, byleby działało!): 50%/10%
+  * wpisaniu lokalnych danych (db, ścieżki) do configa: 50%/10%
 * jakość dokumentacji
 * prowadzenie projektu - realizacja sprintów.
 * wykorzystanie narzędzi CI - preferujemy otwarte rozwiązania, ale jak ktoś się uprze na Jenkinsa to do niego też mamy dostęp ;)
+  * Przy wykorzystaniu CI obowiązuje ta sama zasada co przy instalacji: po wciśnięciu guzika dostaję produkt przetestowany i gotowy do instalacji - w wybranej formie.
 
 Oczywiście mamy świadomość, że jest rok 2014 i sporo się dzieje na warstwie Front Endu. Zachęcamy do wykorzystania tych możliwości. Prosimy jednak pamiętać, że główna wartość aplikacji powinna leżeć po stronie Back Endu. 
 
