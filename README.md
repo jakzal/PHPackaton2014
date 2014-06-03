@@ -37,7 +37,8 @@ Michał Łukaszewski (pecado) pełni rolę Communication Officer'a:
 * projekt powinien być udostępniony jako Free Software, na licencji GPL lub WTFPL.
 * repozytoria projektu powinny być publiczne (preferujemy GitHub lub Bitbucket)
 * projekt powinien zawierać dokumentację na Wiki (tym samym ew. readme.md mogą na to wiki wskazywać, nie ma co powielać)
-* ponieważ projekty zostaną w sieci sugerujemy dokumentację angielską, ale najważniejsze, żeby była aktualna, wyczerpująca i precyzyjna.
+  * ponieważ projekty zostaną w sieci sugerujemy dokumentację angielską, ale najważniejsze, żeby była aktualna, wyczerpująca i precyzyjna.
+  * będzie dobrze widziane załączenie literatury, z jakiej korzystaliście - na etapie idei, projektowania, produkcji. To forma dzielenia się wiedzą: bardzo wskazana czynność :)
 
 Projekty powinny być prowadzone w metodologii Scrum. Zarówno GitHub jak i Bitbucket dostarczają darmowego Issue Trackera i przestrzeń na Wiki projektu. Reszta to kwestia organizacji :>
 
