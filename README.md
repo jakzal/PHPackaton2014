@@ -41,6 +41,15 @@ Michał Łukaszewski (pecado) pełni rolę Communication Officer'a:
 
 Projekty powinny być prowadzone w metodologii Scrum. Zarówno GitHub jak i Bitbucket dostarczają darmowego Issue Trackera i przestrzeń na Wiki projektu. Reszta to kwestia organizacji :>
 
+#Tematyka projektów#
+
+Proponujemy następujące kategorie
+
+* narzędzia dla społeczności PHPersPL
+* gry i zabawy
+* biblioteka, której zawsze potrzebowałeś, nawet jeśli o tym nie wiedziałeś
+* zbawiam świat
+
 #Obowiązkowe jest stosowanie się do zasad#
 
 * CleanCode
