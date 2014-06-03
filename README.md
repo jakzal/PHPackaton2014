@@ -41,6 +41,8 @@ Michał Łukaszewski (pecado) pełni rolę Communication Officer'a:
 
 Projekty powinny być prowadzone w metodologii Scrum. Zarówno GitHub jak i Bitbucket dostarczają darmowego Issue Trackera i przestrzeń na Wiki projektu. Reszta to kwestia organizacji :>
 
+Oczywiście można oprzeć się o istniejące projekty, biblioteki, frameworki. Ważne, aby dało się wyraźnie wyróżnić i wskazać wartość Waszej pracy.
+
 #Tematyka projektów#
 
 Proponujemy następujące kategorie
@@ -50,13 +52,15 @@ Proponujemy następujące kategorie
 * biblioteka, której zawsze potrzebowałeś, nawet jeśli o tym nie wiedziałeś
 * zbawiam świat
 
-#Obowiązkowe jest stosowanie się do zasad#
+#Jakość#
+
+Przywiązujemy ogromną wagę do jakości kodu i dobrych praktyk. Dlatego Wasz projekt musi być jak najbardziej zgodny z zaleceniami znanymi jako:
 
 * CleanCode
 * SOLID
 * [PSR-0](http://www.php-fig.org/psr/psr-0/), [PSR-1](http://www.php-fig.org/psr/psr-1/), [PSR-2](http://www.php-fig.org/psr/psr-2/), [PSR-3](http://www.php-fig.org/psr/psr-2/), [PSR-4](http://www.php-fig.org/psr/psr-2/)
 
-**Zespół eskpercki postara się, aby oceniana będzie tylko aplikacja, nie wybrany framework: sugerujemy próbę podejścia do Clean Architecture :)**
+**Zespół ekspercki postara się, aby oceniana będzie tylko aplikacja, nie wybrany framework. Dlatego sugerujemy próbę zmierzenia się z Clean Architecture :)**
 
 #Zespoły#
 
@@ -73,32 +77,37 @@ Zakładamy, że udział wezmą następujące zespoły:
     * Śląsk
 * 2 sloty pozostaną do dyspozycji innych ośrodków, w których zawiąże się zespół i przedstawi projekt.
 
-Zespół powinien mieć stałą strukturę w trakcie trwania projektu. Niemniej nie ma przeciwskazań, aby zespół korzystał z konsultacji, tak w zakresie technologii, konfiguracji narzędzi, prowadzenia projektu. Prosimy tylko o odnotowanie takiego wsparcia, wraz z czasem jego trwania, w dokumentacji na Wiki projektu.
+Wiemy, że wszyscy mamy znajomych w innych miastach, ale elementem zabawy jest "rywalizacja" pomiędzy ośrodkami, w jakich skupienie są PHPersi. Deal with it ;)
 
-Nie ma problemu, aby konsultacji udzielił członek Zespołu eksperckiego, o ile będzie wprost wymieniony w dokumentacji Sprintu/projektu. Wiedza ma płynąć, a nie być narzędziem terroru :)
+_Jeśli z w/w regionów będzie chciał wystartować więcej niż jeden zespół to....???_
 
-Jeśli z w/w _regionów_ będzie chciał wystartować więcej niż jeden zespół to....???
+_Jeśli ktoś z spoza w/w regionów będzie chciał dołączyć do zespołu z regionu to....???_
 
-Jeśli ktoś z spoza w/w regionów będzie chciał dołączyć do zespołu z regionu to....???
+Zespół powinien mieć stały skład w trakcie trwania projektu. Oczywiście nie oznacza to, że - biorąc pod uwagę sezon urlopowy - w każdym sprincie będą aktywne te same osoby. Tak samo działa to w "realu", nie abstrahujemy od rzeczywistości :)
+
+Nie ma przeciwskazań, aby zespół korzystał z konsultacji, tak w zakresie technologii, konfiguracji narzędzi, prowadzenia projektu. Prosimy tylko o odnotowanie takiego wsparcia, wraz z czasem jego trwania, w dokumentacji na Wiki projektu.
+
+Nie ma problemu, aby konsultacji udzielił członek Zespołu eksperckiego, o ile będzie wprost wymieniony w dokumentacji Sprintu/projektu. Wiedza ma płynąć, a nie być narzędziem terroru :) Niemniej jawność jej przepływu będzie formą fair-play.
 
 #Terminy#
 
 ##Zgłaszanie zespołów i projektów##
 
-* Zespół wraz z projektem przedstawia się do 30.06.2014
+* Przyjmowanie zgłoszeń rozpocznie się 20.06.2014
+* Zespół wraz z projektem przedstawia się do 10.07.2014, włącznie
 * W zgłoszeniu zawarty jest
  * skład zespołu i jego nazwa kodowa :)
  * nazwa projektu i jego opis w 200 znakach (spacje się liczą)
  * link do repo
  * opcjonalnie link do CI
-* do 05.07.2014 przedstawiona jest lista zatwierdzonych projektów (chyba, żeby bierzemy wszystkie jak leci)
+* do 15.07.2014 przedstawiona jest lista zatwierdzonych projektów _(chyba, żeby weźmiemy wszystkie jak leci)_
 
 ##Czas trwania projektu##
 
-* projekty można prowadzić do 31.08.2014 włącznie
+* projekty można prowadzić do 14.09.2014, włącznie
 * każdy push po tej dacie będzie traktowany jako złamanie zasad i oznacza dyskwalifikację
-* Ankieta dla społeczności i zespołu eksperckiego zostaną uruchomione 1.09.2014
-* Podsumowanie wyników i oficjalne ogłoszenie zwycięzców będzie miało miejsce na PHPConPL, 27.09.2014, Szczyrk _(nie żebym kogoś pytał, to taki pomysł :D )_
+* Ankieta dla społeczności i zespołu eksperckiego zostaną uruchomione 15.09.2014
+* Podsumowanie wyników i oficjalne ogłoszenie zwycięzców będzie miało miejsce na PHPConPL, 27.09.2014, Szczyrk _(nie żebym kogoś pytał, to taki pomysł)_
 
 #Ocenianie#
 
@@ -110,6 +119,8 @@ Jeśli ktoś z spoza w/w regionów będzie chciał dołączyć do zespołu z reg
 
 Ponieważ społeczność jest nie do opanowania więc ocenia jak chce, choć fajnie by było gdyby oceniała mądrze.
 
+Postaramy się jednak dostarczyć narzędzie, które umożliwi ocenę prostą albo rozbitą na bardziej szczegółowe kryteria. Się zobaczy.
+
 ##Zespół ekspercki##
 
 Zespół ekspercki wystawia 5 ocen, każda daje maksymalnie 20% oceny końcowej zespołu
@@ -117,11 +128,15 @@ Zespół ekspercki wystawia 5 ocen, każda daje maksymalnie 20% oceny końcowej 
   * każdy projekt musi mieć testy. 
   * nie ma znaczenia czy BDD czy TDD
   * nie ma wymagania 100% pokrycia kodu
-  * jest wymaganie mądrego pokrycia kodu
+  * jest wymaganie mądrego pokrycia kodu/funkcjonalności
 * łatwość instalacji: 100% dostaje projekt, który działa po
   * osadzeniu na maszynie (zip i/lub clone i/lub composer - wedle uznania, byleby działało!): 50%/10%
   * wpisaniu lokalnych danych (db, ścieżki) do configa: 50%/10%
 * jakość dokumentacji
+  * opis projektu - co to, po co to, dlaczego mój świat będzie lepszy gdy użyję Twojego projektu
+  * opis konfiguracji
+  * instrukcje - użytkownika, administratora, kogo tam przewidujecie jako aktorów.
+  * dokumentacja nie musi mieć wartości literackiej, ale powinna być napisana poprawnie wg reguł języka jaki zastosujesz (polski, angielski) i opisywać to co muszę wiedzieć.
 * prowadzenie projektu - realizacja sprintów.
 * wykorzystanie narzędzi CI - preferujemy otwarte rozwiązania, ale jak ktoś się uprze na Jenkinsa to do niego też mamy dostęp ;)
   * Przy wykorzystaniu CI obowiązuje ta sama zasada co przy instalacji: po wciśnięciu guzika dostaję produkt przetestowany i gotowy do instalacji - w wybranej formie.
