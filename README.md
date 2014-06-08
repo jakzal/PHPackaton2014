@@ -53,6 +53,12 @@ Proponujemy następujące kategorie
 * biblioteka, której zawsze potrzebowałeś, nawet jeśli o tym nie wiedziałeś
 * zbawiam świat
 
+Ponieważ zasadniczo robicie to non-profit (choć tak długo jak źródła będą otwarte i wolne nie mam problemu z projektami stricte komercyjnymi :) ) to może rozważcie projekt na przykład dla
+* organizacji non-profit
+* organizacje pożytku publicznego
+ 
+Pomyślcie o czymś pożytecznym.
+
 #Jakość#
 
 Przywiązujemy ogromną wagę do jakości kodu i dobrych praktyk. Dlatego Wasz projekt musi być jak najbardziej zgodny z zaleceniami znanymi jako:
