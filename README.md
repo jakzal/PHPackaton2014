@@ -44,13 +44,7 @@ Michał 'pecado' Łukaszewski pełni rolę Communication Officer'a (aka Single P
   * ponieważ projekty zostaną w sieci sugerujemy dokumentację angielską, ale najważniejsze, żeby była aktualna, wyczerpująca i precyzyjna.
   * będzie dobrze widziane załączenie literatury z jakiej korzystaliście - na etapie idei, projektowania, produkcji. To forma dzielenia się wiedzą: bardzo wskazana czynność :)
 
-Zachęcamy do prowadzenia projektów w metodologii Scrum. 
-
-Jeśli jednak któryś zespół uprze się na metodykę procesową lub produktową - nie ma problemu, byleby dowiózł swój projekt na czas. 
-
-Prosimy to tylko zaznaczyć w metadanych projektu, którą z nich wybraliście.
-
-Zarówno GitHub jak i Bitbucket dostarczają darmowego Issue Trackera i przestrzeń na Wiki projektu. Reszta to kwestia organizacji :>
+Zachęcamy do prowadzenia projektów w metodologii Scrum. Jeśli jednak któryś zespół uprze się na metodykę procesową lub produktową - nie ma problemu, byleby dowiózł swój projekt na czas. Prosimy tylko zaznaczyć w metadanych projektu, którą z nich wybraliście. Zarówno GitHub jak i Bitbucket dostarczają darmowego Issue Trackera i przestrzeń na Wiki projektu. Reszta to kwestia organizacji.
 
 Oczywiście można oprzeć się o istniejące projekty, biblioteki, frameworki. Ważne, aby dało się wyodrębnić i ocenić wartość Waszej pracy.
 
