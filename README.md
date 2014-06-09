@@ -7,17 +7,19 @@ Ogłaszamy konkurs PHPackaton 2014, organizowanego w ramach inicjatywy ![PHPers]
 
 Organizatorami konkursu jest inicjatywa PHPersPL, reprezentowana przez
 
-* *Leszek Krupiński*
-* Kacper Gunia
-* Karol Sójko
-* Kuba Zalas
-* Ktoś z Wrocławia?
-* Ktoś z Krakowa?
-* Ktoś z Łodzi?
+* **Leszek Krupiński**
+* propozycja: Kuba Zalas
+* przedstawiciel PHPers Silesia (propozycja: Kacper Gunia)
+* przedstawiciel PHPers Trójmiasto (propozycja: Karol Sójko)
+* przedstawiciel PHPErs Wrocław (propozycja: ...)
+* przedstawiciel PHPErs Kraków (propozycja: ...)
+* przedstawiciel PHPErs Łódź (propozycja: ...)
 
 W/w stanowią **Zespół ekspercki**, o którym kawałek niżej.
 
-Michał 'pecado' Łukaszewski pełni rolę Communication Officer'a:
+(Zespół Ekspercki jest w trakcie formowania, ale jego skład nie wpływa na przebieg konkursu, więc spokojnie).
+
+Michał 'pecado' Łukaszewski pełni rolę Communication Officer'a (aka Single Point of Contact):
 * odpowiada na pytania,
 * pilnuje wysyłania powiadomień,
 * stara się nadążyć za chaosem w skrzynce pocztowej,
@@ -94,6 +96,8 @@ Zespół powinien mieć stały skład w trakcie trwania projektu. Oczywiście ni
 Nie ma przeciwskazań, aby zespół korzystał z konsultacji, tak w zakresie technologii, konfiguracji narzędzi, prowadzenia projektu. Prosimy tylko o odnotowanie takiego wsparcia, wraz z czasem jego trwania, w dokumentacji na Wiki projektu.
 
 Nie ma problemu, aby konsultacji udzielił członek Zespołu eksperckiego, o ile będzie wprost wymieniony w dokumentacji Sprintu/projektu. Wiedza ma płynąć, a nie być narzędziem terroru :) Niemniej jawność jej przepływu będzie formą fair-play.
+
+W klasycznych hackatonach każdemu zespołowi/tematyce przypisany jest mentor. Mamy jednak świadomość, że w okresie wakacyjnym może być co najmniej trudne zorganizowanie takiej osoby. Dlatego czynimy tu odstępstwo, które w zamyśle ma uelastycznić organizację i ją ułatwić.
 
 #Terminy#
 
