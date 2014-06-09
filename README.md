@@ -5,7 +5,7 @@ Ogłaszamy konkurs PHPackaton 2014, organizowanego w ramach inicjatywy ![PHPers]
 
 #Organizatorzy#
 
-Organizatorami konkursu są przedstawiciele PHPersPL, reprezentowani przez
+Organizatorami konkursu jest inicjatywa PHPersPL, reprezentowana przez
 
 * Kacper Gunia
 * Leszek Krupiński
