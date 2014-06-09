@@ -164,7 +164,7 @@ Niemniej Zespół ekspercki ma prawo do powołania "konsultantów": będą to os
 ##Jawność##
 
 * każda ocena jest jawna i podpisana
-* służyć temu będzie konieczność zalogowania się przez FB/G+/Tw/GitHub/Bitbucket aby oceny dokonać.
+* służyć temu będzie konieczność zalogowania się (może przez FB/G+/Tw/GitHub/Bitbucket, może inaczej) aby oceny dokonać.
 * nie będziemy się szczególnie napinać na blokady, mające na celu zapewnienie 1głos-1osoba, bo i tak znajdziecie na to sposób
 * wierzymy, że nie będzie siary i podpisanie się pod swoją oceną oznacza poważnego człowieka, który wie na czym polega zabawa społecznościowa.
 
