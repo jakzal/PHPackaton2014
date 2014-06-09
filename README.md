@@ -101,7 +101,8 @@ Nie ma problemu, aby konsultacji udzielił członek Zespołu eksperckiego, o ile
 * Zespół wraz z projektem przedstawia się do 10.07.2014, włącznie
  * Wiemy, że Łódź może nie zdążyć i mieć niewielki poślizg. Postarajcie się jednak, aby był jak najmniejszy :)
 * W zgłoszeniu zawarty jest
- * skład zespołu i jego nazwa kodowa :)
+ * pochodzenia (ośrodek PHPers)
+ * skład zespołu (imię, nazwisko, miasto) i jego nazwa kodowa :)
  * nazwa projektu i jego opis w 200 znakach (spacje się liczą)
  * link do repo
  * opcjonalnie link do CI
