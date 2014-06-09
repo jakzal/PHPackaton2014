@@ -1,7 +1,7 @@
 PHPackaton2014
 ==============
 
-Koncepcja konkursu PHPackaton 2014, organizowanego w ramach inicjatywy ![PHPers](http://phpers.pl/bundles/phpersapp/images/logo.png).
+Ogłaszamy konkurs PHPackaton 2014, organizowanego w ramach inicjatywy ![PHPers](http://phpers.pl/bundles/phpersapp/images/logo.png).
 
 #Organizatorzy#
 
@@ -68,11 +68,11 @@ Przywiązujemy ogromną wagę do jakości kodu i dobrych praktyk. Dlatego Wasz p
 * [PSR-0](http://www.php-fig.org/psr/psr-0/), [PSR-1](http://www.php-fig.org/psr/psr-1/), [PSR-2](http://www.php-fig.org/psr/psr-2/), [PSR-3](http://www.php-fig.org/psr/psr-2/), [PSR-4](http://www.php-fig.org/psr/psr-2/)
 gdzie PSR-2 jest wymaganym minimum.
 
-**Zespół ekspercki postara się, aby oceniana będzie tylko aplikacja, nie wybrany framework. Dlatego sugerujemy próbę zmierzenia się z Clean Architecture :)**
+**Zespół ekspercki postara się, aby oceniana była tylko aplikacja, nie wybrany framework. Dlatego sugerujemy próbę zmierzenia się z Clean Architecture :)**
 
 #Zespoły#
 
-Przewidujemy, że w konkursie weźmie udział 4-6 zespołów.
+Przewidujemy, że w konkursie weźmie udział co najmniej jeden zespół z każdego ośrodka, w którym zawiązała się inicjatywa PHPersPL.
 
 Każdy zespół powinien składać się z 3-5 osób. Nie mniej niż 3 i nie więcej niż 5. Literalnie. Niscy również liczą się jako jedna osoba.
 
@@ -83,11 +83,9 @@ Zakładamy, że udział wezmą następujące zespoły:
     * Wrocław
     * Trójmiasto
     * Śląsk
-* 2 sloty pozostaną do dyspozycji innych ośrodków, w których zawiąże się zespół i przedstawi projekt.
+* 2 sloty pozostają do dyspozycji grup z Krakowa i Łodzi, które są w trakcie formowania.
 
 Wszyscy mamy znajomych w innych miastach, ale elementem zabawy jest "rywalizacja" pomiędzy ośrodkami, w jakich skupienie są PHPersi. Deal with it ;)
-
-_Jeśli z w/w regionów będzie chciał wystartować więcej niż jeden zespół to....???_
 
 Zespół powinien mieć stały skład w trakcie trwania projektu. Oczywiście nie oznacza to, że - biorąc pod uwagę sezon urlopowy - w każdym sprincie będą aktywne te same osoby. Tak samo działa to w "realu", nie abstrahujemy od rzeczywistości :)
 
@@ -101,12 +99,13 @@ Nie ma problemu, aby konsultacji udzielił członek Zespołu eksperckiego, o ile
 
 * Przyjmowanie zgłoszeń rozpocznie się 20.06.2014
 * Zespół wraz z projektem przedstawia się do 10.07.2014, włącznie
+ * Wiemy, że Łódź może nie zdążyć i mieć niewielki poślizg. Postarajcie się jednak, aby był jak najmniejszy :)
 * W zgłoszeniu zawarty jest
  * skład zespołu i jego nazwa kodowa :)
  * nazwa projektu i jego opis w 200 znakach (spacje się liczą)
  * link do repo
  * opcjonalnie link do CI
-* do 15.07.2014 przedstawiona jest lista zatwierdzonych projektów _(chyba, żeby weźmiemy wszystkie jak leci)_
+* do 15.07.2014 przedstawiona jest lista zatwierdzonych projektów (spełniających warunki zgłoszenia)
  
 Zgłoszeniem może być link do README.md w repo zespołu (projektu), które będzie zawierało w/w informacje.
 
@@ -115,7 +114,7 @@ Zgłoszeniem może być link do README.md w repo zespołu (projektu), które bę
 * projekty można prowadzić do 14.09.2014, włącznie
 * każdy push po tej dacie będzie traktowany jako złamanie zasad i oznacza dyskwalifikację
 * Ankieta dla społeczności i zespołu eksperckiego zostaną uruchomione 15.09.2014
-* Podsumowanie wyników i oficjalne ogłoszenie zwycięzców będzie miało miejsce na PHPConPL, 27.09.2014, Szczyrk _(nie żebym kogoś pytał, to taki pomysł)_
+* Podsumowanie wyników i oficjalne ogłoszenie zwycięzców będzie miało miejsce na PHPConPL, 27.09.2014, Szczyrk.
 
 #Ocenianie#
 
@@ -131,23 +130,29 @@ Postaramy się jednak dostarczyć narzędzie, które umożliwi ocenę prostą al
 
 ##Zespół ekspercki##
 
+Zakładamy, że każdy projekt musi być oceniony przez min. 3 osoby z Zespołu Eksperckiego.
+
+Ich oceny będą uśrednione arytmetycznie i taka uśredniona ocena stanowi ocenę Zespołu Eksperckiego dla zespołu.
+
 Zespół ekspercki wystawia 5 ocen, każda daje maksymalnie 20% oceny końcowej zespołu
-* jakość kodu: w ruch pójdzie analiza statyczna ze wszystkim co mamy do dyspozycji
+* 20%: jakość kodu: w ruch pójdzie analiza statyczna ze wszystkim co mamy do dyspozycji
   * każdy projekt musi mieć testy. 
   * nie ma znaczenia czy BDD czy TDD
   * nie ma wymagania 100% pokrycia kodu
   * jest wymaganie mądrego pokrycia kodu/funkcjonalności
-* łatwość instalacji: 100% dostaje projekt, który działa po
+* 20%: łatwość instalacji: pełną ocenę dostaje projekt, który działa po
   * osadzeniu na maszynie (zip i/lub clone i/lub composer - wedle uznania, byleby działało!): 50%/10%
   * wpisaniu lokalnych danych (db, ścieżki) do configa: 50%/10%
-* jakość dokumentacji
+* 20%: jakość dokumentacji
   * opis projektu - co to, po co to, dlaczego mój świat będzie lepszy gdy użyję Twojego projektu
   * opis konfiguracji
   * instrukcje - użytkownika, administratora, kogo tam przewidujecie jako aktorów.
   * dokumentacja nie musi mieć wartości literackiej, ale powinna być napisana poprawnie wg reguł języka jaki zastosujesz (polski, angielski) i opisywać to co muszę wiedzieć.
-* prowadzenie projektu - realizacja sprintów.
-* wykorzystanie narzędzi CI - preferujemy otwarte rozwiązania, ale jak ktoś się uprze na Jenkinsa to do niego też mamy dostęp ;)
-  * Przy wykorzystaniu CI obowiązuje ta sama zasada co przy instalacji: po wciśnięciu guzika dostaję produkt przetestowany i gotowy do instalacji - w wybranej formie.
+* 20%: prowadzenie projektu - realizacja sprintów.
+* 20%: wykorzystanie narzędzi CI
+  * preferujemy otwarte rozwiązania, ale jak ktoś się uprze na Jenkinsa to do niego też mamy dostęp ;)
+  * niemniej jakby dało się wykorzystać takie narzędzia jak shippable i inne dostępne publicznie CI byłoby fajniej.
+  * Przy wykorzystaniu CI obowiązuje ta sama zasada co przy instalacji: po wciśnięciu guzika dostaję produkt *przetestowany i gotowy do instalacji* - w wybranej formie.
 
 Oczywiście mamy świadomość, że jest rok 2014 i sporo się dzieje na warstwie Front Endu. Zachęcamy do wykorzystania tych możliwości. Prosimy jednak pamiętać, że główna wartość aplikacji powinna leżeć po stronie Back Endu. 
 
@@ -161,4 +166,8 @@ Niemniej Zespół ekspercki ma prawo do powołania "konsultantów": będą to os
 * wierzymy, że nie będzie siary i podpisanie się pod swoją oceną oznacza poważnego człowieka, który wie na czym polega zabawa społecznościowa.
 
 
+##Komunikacja##
 
+Wszystkie pytania dotyczące konkursu zadajemy w formie Issue do tego repo.
+
+Na ich bazie, oraz udzielonych odpowiedzi będzie budowane FAQ :)
