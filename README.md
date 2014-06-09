@@ -12,6 +12,8 @@ Organizatorami konkursu są przedstawiciele PHPersPL, reprezentowani przez
 * Karol Sójko
 * Kuba Zalas
 * Ktoś z Wrocławia?
+* Ktoś z Krakowa?
+* Ktoś z Łodzi?
 
 W/w stanowią **Zespół ekspercki**, o którym kawałek niżej.
 
