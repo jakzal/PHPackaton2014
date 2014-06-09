@@ -174,3 +174,10 @@ Niemniej Zespół ekspercki ma prawo do powołania "konsultantów": będą to os
 Wszystkie pytania dotyczące konkursu zadajemy w formie Issue do tego repo.
 
 Na ich bazie, oraz udzielonych odpowiedzi będzie budowane FAQ :)
+
+
+##Nagrody##
+
+Prawdopodobnie będą. Zorganizowanie ich zajmie nam jakiś czas, więc informacja będzie uzupełniana.
+
+Liczymy jednak, że połkniecie haczyk "for fun", a ewentualne gratyfikacje nie przesądzą o Waszym akcesie do zabawy.
