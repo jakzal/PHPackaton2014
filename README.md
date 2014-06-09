@@ -11,11 +11,11 @@ Organizatorami konkursu jest inicjatywa PHPersPL, reprezentowana przez
 * propozycja: Kuba Zalas
 * przedstawiciel PHPers Silesia (propozycja: Kacper Gunia)
 * przedstawiciel PHPers Trójmiasto (propozycja: Karol Sójko)
-* przedstawiciel PHPErs Wrocław (propozycja: ...)
-* przedstawiciel PHPErs Kraków (propozycja: ...)
-* przedstawiciel PHPErs Łódź (propozycja: ...)
+* przedstawiciel PHPers Wrocław (propozycja: ...)
+* przedstawiciel PHPers Kraków (propozycja: ...)
+* przedstawiciel PHPers Łódź (propozycja: ...)
 
-W/w stanowią **Zespół ekspercki**, o którym kawałek niżej.
+W/w stanowią **Zespół Ekspercki**, o którym kawałek niżej.
 
 (Zespół Ekspercki jest w trakcie formowania, ale jego skład nie wpływa na przebieg konkursu, więc spokojnie).
 
@@ -44,7 +44,9 @@ Michał 'pecado' Łukaszewski pełni rolę Communication Officer'a (aka Single P
   * ponieważ projekty zostaną w sieci sugerujemy dokumentację angielską, ale najważniejsze, żeby była aktualna, wyczerpująca i precyzyjna.
   * będzie dobrze widziane załączenie literatury, z jakiej korzystaliście - na etapie idei, projektowania, produkcji. To forma dzielenia się wiedzą: bardzo wskazana czynność :)
 
-Projekty powinny być prowadzone w metodologii Scrum. Zarówno GitHub jak i Bitbucket dostarczają darmowego Issue Trackera i przestrzeń na Wiki projektu. Reszta to kwestia organizacji :>
+Zachęcamy do prowadzenia projektów w metodologii Scrum. Zarówno GitHub jak i Bitbucket dostarczają darmowego Issue Trackera i przestrzeń na Wiki projektu. Reszta to kwestia organizacji :>
+
+Jeśli jednak któryś zespół uprze się na metodykę procesową lub produktową - nie ma problemu, byleby dowiózł swój projekt na czas. Prosimy to tylko zaznaczyć w meta danych projektu.
 
 Oczywiście można oprzeć się o istniejące projekty, biblioteki, frameworki. Ważne, aby dało się wyraźnie wyróżnić i wskazać wartość Waszej pracy.
 
@@ -57,7 +59,7 @@ Proponujemy następujące kategorie
 * biblioteka, której zawsze potrzebowałeś, nawet jeśli o tym nie wiedziałeś
 * zbawiam świat
 
-Ponieważ zasadniczo robicie to non-profit (choć tak długo jak źródła będą otwarte i wolne nie mamy problemu z projektami stricte komercyjnymi :) ) rozważcie projekty na przykład dla
+Ponieważ zasadniczo robicie to non-profit (choć tak długo jak źródła będą otwarte i wolne nie mamy problemu z projektami stricte komercyjnymi :) rozważcie projekty na przykład dla
 * organizacji non-profit
 * organizacje pożytku publicznego
  
@@ -89,7 +91,7 @@ Zakładamy, że udział wezmą następujące zespoły:
     * Śląsk
 * 2 sloty pozostają do dyspozycji grup z Krakowa i Łodzi, które są w trakcie formowania.
 
-Wszyscy mamy znajomych w innych miastach, ale elementem zabawy jest "rywalizacja" pomiędzy ośrodkami, w jakich skupienie są PHPersi. Deal with it ;)
+Wszyscy mamy znajomych w innych miastach, ale elementem zabawy jest "rywalizacja" pomiędzy ośrodkami, w jakich skupieni są PHPersi. Deal with it ;)
 
 Zespół powinien mieć stały skład w trakcie trwania projektu. Oczywiście nie oznacza to, że - biorąc pod uwagę sezon urlopowy - w każdym sprincie będą aktywne te same osoby. Tak samo działa to w "realu", nie abstrahujemy od rzeczywistości :)
 
@@ -97,7 +99,7 @@ Nie ma przeciwskazań, aby zespół korzystał z konsultacji, tak w zakresie tec
 
 Nie ma problemu, aby konsultacji udzielił członek Zespołu eksperckiego, o ile będzie wprost wymieniony w dokumentacji Sprintu/projektu. Wiedza ma płynąć, a nie być narzędziem terroru :) Niemniej jawność jej przepływu będzie formą fair-play.
 
-W klasycznych hackatonach każdemu zespołowi/tematyce przypisany jest mentor. Mamy jednak świadomość, że w okresie wakacyjnym może być co najmniej trudne zorganizowanie takiej osoby. Dlatego czynimy tu odstępstwo, które w zamyśle ma uelastycznić organizację i ją ułatwić.
+W klasycznych hackatonach każdemu zespołowi/tematyce przypisany jest mentor. Mamy jednak świadomość, że w okresie wakacyjnym może być co najmniej trudne zorganizowanie takiej osoby/osób. Dlatego czynimy tu odstępstwo, które w zamyśle ma uelastycznić organizację i ją ułatwić.
 
 #Terminy#
 
@@ -137,9 +139,9 @@ Postaramy się jednak dostarczyć narzędzie, które umożliwi ocenę prostą al
 
 ##Zespół ekspercki##
 
-Zakładamy, że każdy projekt musi być oceniony przez min. 3 osoby z Zespołu Eksperckiego.
+Każdy projekt musi być oceniony przez min. 3 osoby z Zespołu Eksperckiego. Niekoniecznie wszystkie, niekoniecznie te same dla każdego projektu. W gestii członków Zespołu Eksperckiego pozostaje zorganizowanie się i ewentualne podzielenie projektami do oceny.
 
-Ich oceny będą uśrednione arytmetycznie i taka uśredniona ocena stanowi ocenę Zespołu Eksperckiego dla zespołu.
+Oceny członków ZE będą uśrednione arytmetycznie i taka uśredniona ocena stanowi ocenę Zespołu Eksperckiego dla zespołu.
 
 Zespół ekspercki wystawia 5 ocen, każda daje maksymalnie 20% oceny końcowej zespołu
 * 20%: jakość kodu: w ruch pójdzie analiza statyczna ze wszystkim co mamy do dyspozycji
@@ -151,19 +153,19 @@ Zespół ekspercki wystawia 5 ocen, każda daje maksymalnie 20% oceny końcowej 
   * osadzeniu na maszynie (zip i/lub clone i/lub composer - wedle uznania, byleby działało!): 50%/10%
   * wpisaniu lokalnych danych (db, ścieżki) do configa: 50%/10%
 * 20%: jakość dokumentacji
-  * opis projektu - co to, po co to, dlaczego mój świat będzie lepszy gdy użyję Twojego projektu
+  * opis projektu - co to, po co to, dlaczego świat będzie lepszy gdy użyje Twojego projektu
   * opis konfiguracji
   * instrukcje - użytkownika, administratora, kogo tam przewidujecie jako aktorów.
   * dokumentacja nie musi mieć wartości literackiej, ale powinna być napisana poprawnie wg reguł języka jaki zastosujesz (polski, angielski) i opisywać to co muszę wiedzieć.
 * 20%: prowadzenie projektu - realizacja sprintów.
 * 20%: wykorzystanie narzędzi CI
   * preferujemy otwarte rozwiązania, ale jak ktoś się uprze na Jenkinsa to do niego też mamy dostęp ;)
-  * niemniej jakby dało się wykorzystać takie narzędzia jak shippable i inne dostępne publicznie CI byłoby fajniej.
+  * niemniej jakby dało się wykorzystać takie narzędzia jak shippable i inne dostępne publicznie CI - byłoby świetnie.
   * Przy wykorzystaniu CI obowiązuje ta sama zasada co przy instalacji: po wciśnięciu guzika dostaję produkt *przetestowany i gotowy do instalacji* - w wybranej formie.
 
 Oczywiście mamy świadomość, że jest rok 2014 i sporo się dzieje na warstwie Front Endu. Zachęcamy do wykorzystania tych możliwości. Prosimy jednak pamiętać, że główna wartość aplikacji powinna leżeć po stronie Back Endu. 
 
-Niemniej Zespół ekspercki ma prawo do powołania "konsultantów": będą to osoby powszechnie znane i uznawane za biegłe np. w JS, CSS, Scrum, itp. Pomogą one ocenić jakość poszczególnych fragmentów aplikacji lub sposobu prowadzenia projektu. Może to wpłynąć na ocenę jednego z w/w obszarów.
+Zespół Ekspercki ma prawo do powołania "konsultantów": będą to osoby powszechnie znane i uznawane za biegłe np. w JS, CSS, Scrum, itp. Pomogą one ocenić jakość poszczególnych fragmentów aplikacji lub sposobu prowadzenia projektu. Może to wpłynąć na ocenę jednego z w/w obszarów.
 
 ##Jawność##
 
@@ -177,7 +179,7 @@ Niemniej Zespół ekspercki ma prawo do powołania "konsultantów": będą to os
 
 Wszystkie pytania dotyczące konkursu zadajemy w formie Issue do tego repo.
 
-Na ich bazie, oraz udzielonych odpowiedzi będzie budowane FAQ :)
+Na tych pytań oraz udzielonych odpowiedzi będzie budowane FAQ :)
 
 
 ##Nagrody##
