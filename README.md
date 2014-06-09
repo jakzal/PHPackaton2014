@@ -7,8 +7,8 @@ Ogłaszamy konkurs PHPackaton 2014, organizowanego w ramach inicjatywy ![PHPers]
 
 Organizatorami konkursu jest inicjatywa PHPersPL, reprezentowana przez
 
+* *Leszek Krupiński*
 * Kacper Gunia
-* Leszek Krupiński
 * Karol Sójko
 * Kuba Zalas
 * Ktoś z Wrocławia?
@@ -17,7 +17,7 @@ Organizatorami konkursu jest inicjatywa PHPersPL, reprezentowana przez
 
 W/w stanowią **Zespół ekspercki**, o którym kawałek niżej.
 
-Michał Łukaszewski (pecado) pełni rolę Communication Officer'a:
+Michał 'pecado' Łukaszewski pełni rolę Communication Officer'a:
 * odpowiada na pytania,
 * pilnuje wysyłania powiadomień,
 * stara się nadążyć za chaosem w skrzynce pocztowej,
