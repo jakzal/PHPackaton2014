@@ -37,7 +37,7 @@ Michał 'pecado' Łukaszewski pełni rolę Communication Officer'a (aka Single P
 * projekt powinien być napisany w
   * PHP 5.4 lub 5.5
   * lub Hack (HHVM)
-  * C - jeśli internal
+  * lub C - jeśli moduł
 * projekt powinien być udostępniony jako Free Software, na licencji GPL lub WTFPL.
 * repozytoria projektu powinny być publiczne (preferujemy GitHub lub Bitbucket)
 * projekt powinien zawierać dokumentację na Wiki (tym samym ew. readme.md mogą na to wiki wskazywać, nie ma co powielać)
