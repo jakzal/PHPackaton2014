@@ -5,7 +5,7 @@ Ogłaszamy konkurs PHPackaton 2014, organizowanego w ramach inicjatywy ![PHPers]
 
 #Organizatorzy#
 
-Organizatorami konkursu jest inicjatywa PHPersPL, reprezentowana przez
+Organizatorami konkursu jest inicjatywa PHPersPL reprezentowana przez
 
 * **Leszek Krupiński**
 * propozycja: Kuba Zalas
@@ -17,7 +17,7 @@ Organizatorami konkursu jest inicjatywa PHPersPL, reprezentowana przez
 
 W/w stanowią **Zespół Ekspercki**, o którym kawałek niżej.
 
-(Zespół Ekspercki jest w trakcie formowania, ale jego skład nie wpływa na przebieg konkursu, więc spokojnie).
+(Zespół Ekspercki jest w trakcie formowania, ale jego skład nie wpływa na przebieg konkursu więc spokojnie).
 
 Michał 'pecado' Łukaszewski pełni rolę Communication Officer'a (aka Single Point of Contact):
 * odpowiada na pytania,
@@ -42,13 +42,17 @@ Michał 'pecado' Łukaszewski pełni rolę Communication Officer'a (aka Single P
 * repozytoria projektu powinny być publiczne (preferujemy GitHub lub Bitbucket)
 * projekt powinien zawierać dokumentację na Wiki (tym samym ew. readme.md mogą na to wiki wskazywać, nie ma co powielać)
   * ponieważ projekty zostaną w sieci sugerujemy dokumentację angielską, ale najważniejsze, żeby była aktualna, wyczerpująca i precyzyjna.
-  * będzie dobrze widziane załączenie literatury, z jakiej korzystaliście - na etapie idei, projektowania, produkcji. To forma dzielenia się wiedzą: bardzo wskazana czynność :)
+  * będzie dobrze widziane załączenie literatury z jakiej korzystaliście - na etapie idei, projektowania, produkcji. To forma dzielenia się wiedzą: bardzo wskazana czynność :)
 
-Zachęcamy do prowadzenia projektów w metodologii Scrum. Zarówno GitHub jak i Bitbucket dostarczają darmowego Issue Trackera i przestrzeń na Wiki projektu. Reszta to kwestia organizacji :>
+Zachęcamy do prowadzenia projektów w metodologii Scrum. 
 
-Jeśli jednak któryś zespół uprze się na metodykę procesową lub produktową - nie ma problemu, byleby dowiózł swój projekt na czas. Prosimy to tylko zaznaczyć w meta danych projektu.
+Jeśli jednak któryś zespół uprze się na metodykę procesową lub produktową - nie ma problemu, byleby dowiózł swój projekt na czas. 
 
-Oczywiście można oprzeć się o istniejące projekty, biblioteki, frameworki. Ważne, aby dało się wyraźnie wyróżnić i wskazać wartość Waszej pracy.
+Prosimy to tylko zaznaczyć w metadanych projektu, którą z nich wybraliście.
+
+Zarówno GitHub jak i Bitbucket dostarczają darmowego Issue Trackera i przestrzeń na Wiki projektu. Reszta to kwestia organizacji :>
+
+Oczywiście można oprzeć się o istniejące projekty, biblioteki, frameworki. Ważne, aby dało się wyodrębnić i ocenić wartość Waszej pracy.
 
 #Tematyka projektów#
 
@@ -59,10 +63,10 @@ Proponujemy następujące kategorie
 * biblioteka, której zawsze potrzebowałeś, nawet jeśli o tym nie wiedziałeś
 * zbawiam świat
 
-Ponieważ zasadniczo robicie to non-profit (choć tak długo jak źródła będą otwarte i wolne nie mamy problemu z projektami stricte komercyjnymi :) rozważcie projekty na przykład dla
+Ponieważ zasadniczo robicie to non-profit (choć tak długo jak źródła będą otwarte i wolne nie mamy problemu z projektami stricte komercyjnymi) rozważcie projekty na przykład dla
 * organizacji non-profit
 * organizacje pożytku publicznego
- 
+
 Pomyślcie o czymś pożytecznym.
 
 #Jakość#
@@ -71,7 +75,7 @@ Przywiązujemy ogromną wagę do jakości kodu i dobrych praktyk. Dlatego Wasz p
 
 * CleanCode
 * SOLID
-* [PSR-0](http://www.php-fig.org/psr/psr-0/), [PSR-1](http://www.php-fig.org/psr/psr-1/), [PSR-2](http://www.php-fig.org/psr/psr-2/), [PSR-3](http://www.php-fig.org/psr/psr-2/), [PSR-4](http://www.php-fig.org/psr/psr-2/)
+* [PSR-0](http://www.php-fig.org/psr/psr-0/), [PSR-1](http://www.php-fig.org/psr/psr-1/), [PSR-2](http://www.php-fig.org/psr/psr-2/), [PSR-3](http://www.php-fig.org/psr/psr-3/), [PSR-4](http://www.php-fig.org/psr/psr-4/)
 gdzie PSR-2 jest wymaganym minimum.
 
 **Zespół ekspercki postara się, aby oceniana była tylko aplikacja, nie wybrany framework. Dlatego sugerujemy próbę zmierzenia się z Clean Architecture :)**
@@ -91,13 +95,13 @@ Zakładamy, że udział wezmą następujące zespoły:
     * Śląsk
 * 2 sloty pozostają do dyspozycji grup z Krakowa i Łodzi, które są w trakcie formowania.
 
-Wszyscy mamy znajomych w innych miastach, ale elementem zabawy jest "rywalizacja" pomiędzy ośrodkami, w jakich skupieni są PHPersi. Deal with it ;)
+Wszyscy mamy znajomych w innych miastach, ale elementem zabawy jest "rywalizacja" pomiędzy ośrodkami w jakich skupieni są PHPersi. Deal with it ;)
 
-Zespół powinien mieć stały skład w trakcie trwania projektu. Oczywiście nie oznacza to, że - biorąc pod uwagę sezon urlopowy - w każdym sprincie będą aktywne te same osoby. Tak samo działa to w "realu", nie abstrahujemy od rzeczywistości :)
+Zespół powinien mieć stały skład w trakcie trwania projektu. Oczywiście nie oznacza to, że - biorąc pod uwagę sezon urlopowy - w każdym sprincie będą aktywne te same osoby. Tak samo działa to w "realu", nie abstrahujemy od rzeczywistości.
 
-Nie ma przeciwskazań, aby zespół korzystał z konsultacji, tak w zakresie technologii, konfiguracji narzędzi, prowadzenia projektu. Prosimy tylko o odnotowanie takiego wsparcia, wraz z czasem jego trwania, w dokumentacji na Wiki projektu.
+Nie ma przeciwskazań, aby zespół korzystał z konsultacji w zakresie technologii, konfiguracji narzędzi, prowadzenia projektu. Prosimy tylko o odnotowanie takiego wsparcia, wraz z czasem jego trwania, w dokumentacji na Wiki projektu.
 
-Nie ma problemu, aby konsultacji udzielił członek Zespołu eksperckiego, o ile będzie wprost wymieniony w dokumentacji Sprintu/projektu. Wiedza ma płynąć, a nie być narzędziem terroru :) Niemniej jawność jej przepływu będzie formą fair-play.
+Nie ma problemu, aby konsultacji udzielił członek Zespołu eksperckiego, o ile będzie wprost wymieniony w dokumentacji Sprintu/projektu. Wiedza ma płynąć, a nie być narzędziem terroru. Niemniej jawność jej przepływu będzie formą fair-play.
 
 W klasycznych hackatonach każdemu zespołowi/tematyce przypisany jest mentor. Mamy jednak świadomość, że w okresie wakacyjnym może być co najmniej trudne zorganizowanie takiej osoby/osób. Dlatego czynimy tu odstępstwo, które w zamyśle ma uelastycznić organizację i ją ułatwić.
 
@@ -115,21 +119,21 @@ W klasycznych hackatonach każdemu zespołowi/tematyce przypisany jest mentor. M
  * link do repo
  * opcjonalnie link do CI
 * do 15.07.2014 przedstawiona jest lista zatwierdzonych projektów (spełniających warunki zgłoszenia)
- 
+
 Zgłoszeniem może być link do README.md w repo zespołu (projektu), które będzie zawierało w/w informacje.
 
 ##Czas trwania projektu##
 
 * projekty można prowadzić do 14.09.2014, włącznie
 * każdy push po tej dacie będzie traktowany jako złamanie zasad i oznacza dyskwalifikację
-* Ankieta dla społeczności i zespołu eksperckiego zostaną uruchomione 15.09.2014
+* Ankiety dla społeczności i Zespołu Eksperckiego zostaną uruchomione 15.09.2014
 * Podsumowanie wyników i oficjalne ogłoszenie zwycięzców będzie miało miejsce na PHPConPL, 27.09.2014, Szczyrk.
 
 #Ocenianie#
 
 * każdy projekt będzie oceniany przez:
   * społeczność, której ocena stanowi 60% oceny końcowej
-  * zespół "ekspercki", którego ocena stanowi 40% oceny końcowej
+  * Zespół Ekspercki, którego ocena stanowi 40% oceny końcowej
 
 ##Ocena społeczności##
 
@@ -174,13 +178,11 @@ Zespół Ekspercki ma prawo do powołania "konsultantów": będą to osoby powsz
 * nie będziemy się szczególnie napinać na blokady, mające na celu zapewnienie 1głos-1osoba, bo i tak znajdziecie na to sposób
 * wierzymy, że nie będzie siary i podpisanie się pod swoją oceną oznacza poważnego człowieka, który wie na czym polega zabawa społecznościowa.
 
-
 ##Komunikacja##
 
 Wszystkie pytania dotyczące konkursu zadajemy w formie Issue do tego repo.
 
-Na tych pytań oraz udzielonych odpowiedzi będzie budowane FAQ :)
-
+Na bazie tych pytań oraz udzielonych odpowiedzi będzie budowane FAQ :)
 
 ##Nagrody##
 
