@@ -53,7 +53,7 @@ Proponujemy następujące kategorie
 * biblioteka, której zawsze potrzebowałeś, nawet jeśli o tym nie wiedziałeś
 * zbawiam świat
 
-Ponieważ zasadniczo robicie to non-profit (choć tak długo jak źródła będą otwarte i wolne nie mam problemu z projektami stricte komercyjnymi :) ) to może rozważcie projekt na przykład dla
+Ponieważ zasadniczo robicie to non-profit (choć tak długo jak źródła będą otwarte i wolne nie mamy problemu z projektami stricte komercyjnymi :) ) rozważcie projekty na przykład dla
 * organizacji non-profit
 * organizacje pożytku publicznego
  
@@ -66,6 +66,7 @@ Przywiązujemy ogromną wagę do jakości kodu i dobrych praktyk. Dlatego Wasz p
 * CleanCode
 * SOLID
 * [PSR-0](http://www.php-fig.org/psr/psr-0/), [PSR-1](http://www.php-fig.org/psr/psr-1/), [PSR-2](http://www.php-fig.org/psr/psr-2/), [PSR-3](http://www.php-fig.org/psr/psr-2/), [PSR-4](http://www.php-fig.org/psr/psr-2/)
+gdzie PSR-2 jest wymaganym minimum.
 
 **Zespół ekspercki postara się, aby oceniana będzie tylko aplikacja, nie wybrany framework. Dlatego sugerujemy próbę zmierzenia się z Clean Architecture :)**
 
@@ -84,11 +85,9 @@ Zakładamy, że udział wezmą następujące zespoły:
     * Śląsk
 * 2 sloty pozostaną do dyspozycji innych ośrodków, w których zawiąże się zespół i przedstawi projekt.
 
-Wiemy, że wszyscy mamy znajomych w innych miastach, ale elementem zabawy jest "rywalizacja" pomiędzy ośrodkami, w jakich skupienie są PHPersi. Deal with it ;)
+Wszyscy mamy znajomych w innych miastach, ale elementem zabawy jest "rywalizacja" pomiędzy ośrodkami, w jakich skupienie są PHPersi. Deal with it ;)
 
 _Jeśli z w/w regionów będzie chciał wystartować więcej niż jeden zespół to....???_
-
-_Jeśli ktoś z spoza w/w regionów będzie chciał dołączyć do zespołu z regionu to....???_
 
 Zespół powinien mieć stały skład w trakcie trwania projektu. Oczywiście nie oznacza to, że - biorąc pod uwagę sezon urlopowy - w każdym sprincie będą aktywne te same osoby. Tak samo działa to w "realu", nie abstrahujemy od rzeczywistości :)
 
@@ -108,6 +107,8 @@ Nie ma problemu, aby konsultacji udzielił członek Zespołu eksperckiego, o ile
  * link do repo
  * opcjonalnie link do CI
 * do 15.07.2014 przedstawiona jest lista zatwierdzonych projektów _(chyba, żeby weźmiemy wszystkie jak leci)_
+ 
+Zgłoszeniem może być link do README.md w repo zespołu (projektu), które będzie zawierało w/w informacje.
 
 ##Czas trwania projektu##
 
