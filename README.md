@@ -7,10 +7,10 @@ Ogłaszamy konkurs PHPackaton 2014, organizowanego w ramach inicjatywy ![PHPers]
 
 Organizatorami konkursu jest inicjatywa PHPersPL reprezentowana przez
 
-* **Leszek Krupiński**
 * **Kacper Gunia**
-* propozycja: Kuba Zalas
-* przedstawiciel PHPers Trójmiasto (propozycja: Karol Sójko)
+* **Leszek Krupiński**
+* **Karol Sójko**
+* **Kuba Zalas**
 * przedstawiciel PHPers Wrocław (propozycja: ...)
 * przedstawiciel PHPers Kraków (propozycja: ...)
 * przedstawiciel PHPers Łódź (propozycja: ...)
