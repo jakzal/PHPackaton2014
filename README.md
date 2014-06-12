@@ -53,7 +53,9 @@ Oczywiście można oprzeć się o istniejące projekty, biblioteki, frameworki. 
 Proponujemy następujące kategorie
 
 * narzędzia dla społeczności PHPersPL
-* gry i zabawy
+  * np. porządne Jeopardy
+  * albo inna zabawa, której będzie można używać na spotkaniach
+* gry i zabawy natury ogólnej: coś co chciałeś napisać, ale nigdy nie miałeś motywacji.
 * biblioteka, której zawsze potrzebowałeś, nawet jeśli o tym nie wiedziałeś
 * zbawiam świat
 
@@ -115,6 +117,8 @@ W klasycznych hackatonach każdemu zespołowi/tematyce przypisany jest mentor. M
 * do 15.07.2014 przedstawiona jest lista zatwierdzonych projektów (spełniających warunki zgłoszenia)
 
 Zgłoszeniem może być link do README.md w repo zespołu (projektu), które będzie zawierało w/w informacje.
+
+Zgłoszenia wystawiamy w formie Issue do tego repo, z prefixem "**[Zgłoszenie]**".
 
 ##Czas trwania projektu##
 
