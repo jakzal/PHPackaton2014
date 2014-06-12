@@ -8,8 +8,8 @@ Ogłaszamy konkurs PHPackaton 2014, organizowanego w ramach inicjatywy ![PHPers]
 Organizatorami konkursu jest inicjatywa PHPersPL reprezentowana przez
 
 * **Leszek Krupiński**
+* **Kacper Gunia**
 * propozycja: Kuba Zalas
-* przedstawiciel PHPers Silesia (propozycja: Kacper Gunia)
 * przedstawiciel PHPers Trójmiasto (propozycja: Karol Sójko)
 * przedstawiciel PHPers Wrocław (propozycja: ...)
 * przedstawiciel PHPers Kraków (propozycja: ...)
@@ -38,7 +38,7 @@ Michał 'pecado' Łukaszewski pełni rolę Communication Officer'a (aka Single P
   * PHP 5.4 lub 5.5
   * lub Hack (HHVM)
   * lub C - jeśli moduł
-* projekt powinien być udostępniony jako Free Software, na licencji GPL lub WTFPL.
+* projekt powinien być udostępniony jako Free Software, na licencji GPL, MIT lub WTFPL.
 * repozytoria projektu powinny być publiczne (preferujemy GitHub lub Bitbucket)
 * projekt powinien zawierać dokumentację na Wiki (tym samym ew. readme.md mogą na to wiki wskazywać, nie ma co powielać)
   * ponieważ projekty zostaną w sieci sugerujemy dokumentację angielską, ale najważniejsze, żeby była aktualna, wyczerpująca i precyzyjna.
