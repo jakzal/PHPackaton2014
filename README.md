@@ -103,29 +103,28 @@ W klasycznych hackatonach każdemu zespołowi/tematyce przypisany jest mentor. M
 
 #Terminy#
 
-##Zgłaszanie zespołów i projektów##
-
 * Przyjmowanie zgłoszeń rozpocznie się 20.06.2014
 * Zespół wraz z projektem przedstawia się do 10.07.2014, włącznie
  * Wiemy, że Łódź może nie zdążyć i mieć niewielki poślizg. Postarajcie się jednak, aby był jak najmniejszy :)
+* do 15.07.2014 przedstawiona jest lista zatwierdzonych projektów (spełniających warunki zgłoszenia)
+* projekty można prowadzić do 14.09.2014, włącznie
+  * każdy push po tej dacie będzie traktowany jako złamanie zasad i oznacza dyskwalifikację
+  * ankiety dla społeczności i Zespołu Eksperckiego zostaną uruchomione 15.09.2014
+* Podsumowanie wyników i oficjalne ogłoszenie zwycięzców będzie miało miejsce na PHPConPL, 27.09.2014, Szczyrk.
+
+##Zgłaszanie zespołów i projektów##
+
 * W zgłoszeniu zawarty jest
+ * nazwa kodowa zespołu :)
  * pochodzenia (ośrodek PHPers)
- * skład zespołu (imię, nazwisko, miasto) i jego nazwa kodowa :)
+ * skład zespołu (imię, nazwisko, miasto)
  * nazwa projektu i jego opis w 200 znakach (spacje się liczą)
  * link do repo
  * opcjonalnie link do CI
-* do 15.07.2014 przedstawiona jest lista zatwierdzonych projektów (spełniających warunki zgłoszenia)
 
 Zgłoszeniem może być link do README.md w repo zespołu (projektu), które będzie zawierało w/w informacje.
 
 Zgłoszenia wystawiamy w formie Issue do tego repo, z prefixem "**[Zgłoszenie]**".
-
-##Czas trwania projektu##
-
-* projekty można prowadzić do 14.09.2014, włącznie
-* każdy push po tej dacie będzie traktowany jako złamanie zasad i oznacza dyskwalifikację
-* Ankiety dla społeczności i Zespołu Eksperckiego zostaną uruchomione 15.09.2014
-* Podsumowanie wyników i oficjalne ogłoszenie zwycięzców będzie miało miejsce na PHPConPL, 27.09.2014, Szczyrk.
 
 #Ocenianie#
 
