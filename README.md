@@ -3,6 +3,8 @@ PHPackaton2014
 
 Ogłaszamy konkurs PHPackaton 2014, organizowanego w ramach inicjatywy ![PHPers](http://phpers.pl/bundles/phpersapp/images/logo.png).
 
+[Event page](https://www.facebook.com/events/486201711511468)
+
 #Organizatorzy#
 
 Organizatorami konkursu jest inicjatywa PHPersPL reprezentowana przez
