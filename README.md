@@ -19,7 +19,7 @@ W/w stanowią **Zespół Ekspercki**, o którym kawałek niżej.
 
 (Zespół Ekspercki jest w trakcie formowania, ale jego skład nie wpływa na przebieg konkursu więc spokojnie).
 
-Michał 'pecado' Łukaszewski pełni rolę Communication Officer'a (aka Single Point of Contact):
+**Michał 'pecado' Łukaszewski** pełni rolę Communication Officer'a (aka Single Point of Contact):
 * odpowiada na pytania,
 * pilnuje wysyłania powiadomień,
 * stara się nadążyć za chaosem w skrzynce pocztowej,
