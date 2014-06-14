@@ -5,6 +5,21 @@ Ogłaszamy konkurs PHPackaton 2014, organizowanego w ramach inicjatywy ![PHPers]
 
 [Event page](https://www.facebook.com/events/486201711511468)
 
+* [Organizatorzy](#organizatorzy)
+* [Cel](#cel)
+* [Projekty](#projekty)
+* [Tematyka projektów](#tematyka-projekt%C3%B3w)
+* [Jakość](#jako%C5%9B%C4%87)
+* [Zespoły](#zespo%C5%82y)
+* [Terminy](#terminy)
+* [Zgłaszanie zespołów i projektów](#zg%C5%82aszanie-zespo%C5%82%C3%B3w-i-projekt%C3%B3w)
+* [Ocenianie](#ocenianie)
+  * [Ocena społeczności](#ocena-spo%C5%82eczno%C5%9Bci)
+  * [Zespół ekspercki](#zesp%C3%B3%C5%82-ekspercki)
+* [Jawność](#jawno%C5%9B%C4%87)
+* [Komunikacja](#komunikacja)
+* [Nagrody](#nagrody)
+
 #Organizatorzy#
 
 Organizatorami konkursu jest inicjatywa PHPersPL reprezentowana przez
@@ -114,7 +129,7 @@ W klasycznych hackatonach każdemu zespołowi/tematyce przypisany jest mentor. M
   * ankiety dla społeczności i Zespołu Eksperckiego zostaną uruchomione 15.09.2014
 * Podsumowanie wyników i oficjalne ogłoszenie zwycięzców będzie miało miejsce na PHPConPL, 27.09.2014, Szczyrk.
 
-##Zgłaszanie zespołów i projektów##
+#Zgłaszanie zespołów i projektów#
 
 * W zgłoszeniu zawarty jest
  * nazwa kodowa zespołu :)
